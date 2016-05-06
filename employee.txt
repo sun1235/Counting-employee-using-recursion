@@ -7,4 +7,4 @@ Nathan 	HR
 Sally 	Accounting
 Sam 	HR
 Susan 	HR
-Veronica 	 IT
+
